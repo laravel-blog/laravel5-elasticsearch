@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Laravel5Elasticsearch
+        psr4_prefix: Laravel5Elasticsearch
+        src_path: app
